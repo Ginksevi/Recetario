@@ -1,4 +1,4 @@
-from projecto_day6 import *
+from funciones import *
 
 while not finalizar_programa:    
     menu = incio()
